@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # exphub-site
 =======
 # Getting Started with Create React App
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> f53f7c0 (initial commit)
+=======
+# exphub-site
+>>>>>>> 33b25c42c82f04c7d184cbe6b69e44b6a0e3d8af
